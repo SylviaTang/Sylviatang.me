@@ -32,7 +32,7 @@
 
 用户意见：1.老师：以年级为单位存放
 
-2.同学：只要我年级为二级菜单就足够了，不用再按班级分为三级目录
+2.同学：只要年级为二级菜单就足够了，不用再按班级分为三级目录
 
 &nbsp;
 <h5>Wordpress界面设计</h5>
@@ -92,11 +92,9 @@ Anima主题预设颜色就是#D0422C，为红色。
 
 &nbsp;
 <h5>运营</h5>
-<strong>云端架站</strong>：装了wordfense，同时我自己装了WP Concent Copy Protection，禁止选取文字或下载作品
+<strong>云端架站</strong>：装了wordfense，同时我自己装了WP Concent Copy Protection，禁止用户选取文字或下载作品
 
-<strong>用户调研</strong>：做过老师访谈
-
-做过调查（2015级学生及身边同学）
+<strong>用户调研</strong>：1.访谈，详情见文档“网站运营访谈.docx”；2.调查（2015级学生调研及身边同学建议）
 
 <strong>站长工具：</strong>装了百度站长工具及Google console（已有14天+）
 
