@@ -119,6 +119,16 @@ Anima主题预设颜色就是#D0422C，为红色。
 
 装了插件Jetpack及Yoast
 
+Jetpack:
+
+<img class="alignnone wp-image-760 size-full" src="http://sylviatang.me/wp-content/uploads/2018/07/JETPACK.png" alt="" width="882" height="863" />
+
+Yoast:
+
+<img class="alignnone wp-image-761 size-large" src="http://sylviatang.me/wp-content/uploads/2018/07/YOAST-1024x550.png" alt="" width="1024" height="550" />
+
+&nbsp;
+
 &nbsp;
 
 &nbsp;
