@@ -56,8 +56,7 @@
 
 &nbsp;
 <h5>WORDPRESS平面设计设计</h5>
-<strong>图库：</strong>1.本网站所有图库均从 PixelBay 和 Unslpash 中挑选，两大网站的图片皆是Creative Commons CC0下发布，不涉及侵权问题
-
+<strong>图库：</strong>1.本网站所有图库均从 <a href="https://pixabay.com/" target="blank">PixelBay</a> 和 <a href="https://unsplash.com/" target="blank">Unslpash</a> 中挑选，两大网站的图片皆是Creative Commons CC0下发布，不涉及侵权问题
 用户意见：配图配的很好，与文章内容匹配度高。
 
 配色：关于配色，我做了测试。
@@ -119,6 +118,16 @@ Anima主题预设颜色就是#D0422C，为红色。
 <img class="alignnone wp-image-757 size-large" src="http://sylviatang.me/wp-content/uploads/2018/07/Google-search-console-1024x455.png" alt="" width="1024" height="455" />
 
 装了插件Jetpack及Yoast
+
+Jetpack:
+
+<img class="alignnone wp-image-760 size-full" src="http://sylviatang.me/wp-content/uploads/2018/07/JETPACK.png" alt="" width="882" height="863" />
+
+Yoast:
+
+<img class="alignnone wp-image-761 size-large" src="http://sylviatang.me/wp-content/uploads/2018/07/YOAST-1024x550.png" alt="" width="1024" height="550" />
+
+&nbsp;
 
 &nbsp;
 
